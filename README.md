@@ -1,4 +1,4 @@
-# Wkhtml
+# Wkhtmltox
 
 This is an update of code from https://github.com/insphire/wkhtmltopdf-binary
 
