@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Wkhtmltox::VERSION
   spec.authors       = ["glebtv"]
   spec.email         = ["glebtv@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = "Binary wkhtmltopdf and wkhtmltoimage"
+  spec.summary       = "Binary wkhtmltopdf and wkhtmltoimage"
+  spec.description   = ""
   spec.homepage      = "https://github.com/glebtv/wkhtmltox"
   spec.license       = "MIT"
 
